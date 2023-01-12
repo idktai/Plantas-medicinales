@@ -45,10 +45,11 @@
     width: 50%;
 }
 
-.footer2 {
+/*.footer2 {
     height: 70px;
     width: 60px;
 }
+*/
 
 .centrado{
     text-align: center;
@@ -80,7 +81,7 @@ p1{
     width: 100%;
     background-color:rgb(155, 246, 19);
     color: #000;
-    font-family: ‘Oswald’ , sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     font-size: 20px;
     padding: 20px;
@@ -103,4 +104,3 @@ p1{
         top:50px;
         right:0;
     }
-
