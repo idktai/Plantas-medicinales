@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.color1{
+    background-color: greenyellow;
+}
+
+.color3{
+    background-color: rgb(47, 255, 154);
+    background-image: url(img/nettle-503939_1920.jpg);   
+}
+.color4{
+    background-color: rgb(23, 236, 62);
+    background-image: url(img/thyme-115349_1920.jpg);
+}
+.color5{
+    background-color: rgb(17, 212, 53);
+    background-image: url(img/jengibre-propiedades-1.webp);
+}
+.color6{
+    background-color: rgb(14, 191, 26);
+    background-image: url(img/lavender-1595581_1920.jpg);
+}
+
+.encabezado{
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    border: 2px solid rgb(99, 138, 40);
+    background-image: url(img/leaves-1498985_1920.jpg);
+}
+
+
+.encabezado__logo{
+    height: 70px;
+    width: 70px;
+    background-size: contain;
+    background-image:url(img/icono.png)
+}
+.encabezado__logo--width {
+    width: 50%;
+}
+
+.footer2 {
+    height: 70px;
+    width: 60px;
+}
+
+.centrado{
+    text-align: center;
+}
+.fuente{
+    margin: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+
+p1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:  30px;
+    margin: 40px; 
+    text-align: center;
+   }
+   
+.colorsub{
+    color:none; 
+    font-size:  48px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+    text-decoration:none;
+    margin: 40px;
+}
+
+.piepagina {                 
+    width: 100%;
+    background-color:rgb(155, 246, 19);
+    color: #000;
+    font-family: ‘Oswald’ , sans-serif;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    }
+    
+    .piepagina_p{
+    margin-bottom: 15;
+    }
+    .piepagina__i{
+    color:rgb(0, 0, 0) ;
+    letter-spacing: 20px;
+    font-size: 25px;
+    }
+    /* */
+    
+
+    .social{
+        width: 48px;
+        position:fixed;
+        top:50px;
+        right:0;
+    }
+
