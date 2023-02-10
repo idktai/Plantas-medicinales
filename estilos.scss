@@ -24,7 +24,7 @@ li{
 
 .color2{
     background-color: $color2;
-    background-image: url(img/nettle-503939_1920.jpg);   
+    background-image: url(img/nettle-503939_1920.jpg);  
 }
 
 .color3{
@@ -66,25 +66,32 @@ li{
 .centrado{
     text-align: center;
 }
+
 .fuente{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 20px;
+    font-size: 30px;
+    text-shadow: $color2;
+    text-shadow: aquamarine;
 }
 
 
-p1{
+.fuente2{
     font-family:$AlialBold;
-    font-size:  30px;
+    font-size:  50px;
+    color: $color3;
+    text-shadow: -2px -2px 1px #075;
     margin: $margentxt; 
     text-align: center;
 }
 
 .colorsub{
-    color:none; 
-    font-size:  48px;
+    color:chartreuse; 
+    font-size:  60px;
     font-family: $AlialBold;
     font-weight: 200;
-    text-decoration:none;
+    -webkit-text-decoration: dotted;
+    text-decoration:dotted;
+    text-shadow: -2px -2px 1px #000;
     margin: $margentxt;
 }
 
@@ -106,13 +113,13 @@ p1{
     letter-spacing: 20px;
     font-size: 25px;
     }
-    /* */
-    
 
     .social{
-        width: 48px;
-        position:fixed;
-        top:50px;
-        right:0;
+    width: 48px;
+    position:fixed;
+    top:50px;
+    right:0;
     }
 
+
+ /*  */
